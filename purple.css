@@ -326,7 +326,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #FCE4EC;
+  background-color: #F3E5F5;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -345,7 +345,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #F8BBD0;
+  background-color: #E1BEE7;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -364,7 +364,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #F48FB1;
+  background-color: #CE93D8;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -383,7 +383,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #F06292;
+  background-color: #BA68C8;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -402,7 +402,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #EC407A;
+  background-color: #AB47BC;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -421,7 +421,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #E91E63;
+  background-color: #9C27B0;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -440,7 +440,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #D81B60;
+  background-color: #8E24AA;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -459,7 +459,7 @@ h1 {
   border-radius: 0.25em;
   font-family: "Roboto Mono", monospace;
   transition: transform 250ms;
-  background-color: #C2185B;
+  background-color: #7B1FA2;
   width: 380px;
   height: 60px;
   margin: 10px auto;
@@ -470,7 +470,7 @@ h1 {
 
 li:hover {
   height: 80px;
-  box-shadow: 0 0 15px rgba(255, 25, 117, 0.7);
+  box-shadow: 0 0 15px rgba(177, 99, 255, 0.771);
 }
 
 /* MAIN SECTION */
